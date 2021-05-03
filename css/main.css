@@ -23,7 +23,7 @@ li a {
 li img {
     display: block;
     padding: 14px 16px;
-    size: 5%;
+    height: 1em;
 }
 
 li a:hover {
