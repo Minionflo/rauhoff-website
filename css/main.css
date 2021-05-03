@@ -4,6 +4,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #161616;
+    font-family: Roboto;
 }
 
 li {
@@ -16,6 +17,13 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: Roboto;
+}
+
+li img {
+    display: block;
+    padding: 14px 16px;
+    size: 5%;
 }
 
 li a:hover {
