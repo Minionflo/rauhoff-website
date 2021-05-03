@@ -4,7 +4,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #161616;
-    font-family: Roboto;
+    font-size: 1.5em;
 }
 
 li {
@@ -17,15 +17,24 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family: Roboto;
+}
+
+li a.activ {
+    background-color: #4a4a4a;
+    border: 0px solid;
+    border-radius: 12px;
 }
 
 li img {
     display: block;
     padding: 14px 16px;
-    height: 1em;
+    height: 1.2em;
 }
 
 li a:hover {
     background-color: #404040;
+}
+
+.font {
+    font-family: Roboto;
 }
