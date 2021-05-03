@@ -7,6 +7,11 @@
     <title>Rauhoff.de</title>
 </head>
 <body>
-    <h1>lol</h1>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="news.asp">News</a></li>
+        <li><a href="contact.asp">Contact</a></li>
+        <li><a href="about.asp">About</a></li>
+    </ul> 
 </body>
 </html>
