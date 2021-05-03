@@ -8,6 +8,7 @@
 </head>
 <body>
     <ul>
+        <li><img src="img/logo.png"></li>
         <li><a href="index.php">Home</a></li>
         <li><a href="services.php">Services</a></li>
         <li><a href="about.php">Über uns</a></li>
