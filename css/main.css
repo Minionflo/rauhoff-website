@@ -7,11 +7,11 @@ ul {
     font-size: 1.5em;
 }
 
-li {
+.navbar {
     float: left;
 }
 
-li a {
+.navbar-a {
     display: block;
     color: white;
     text-align: center;
@@ -19,15 +19,11 @@ li a {
     text-decoration: none;
 }
 
-li a.activ {
+.activ {
     background-color: #4a4a4a;
-    border: 0px solid;
-    border-radius: 12px;
 }
 
-li a:hover {
-    border: 0px solid;
-    border-radius: 12px;
+.navbar-a:hover {
     background-color: #404040;
 }
 
@@ -42,11 +38,11 @@ body {
     background-color: #000000;
 }
 
-#pad {
+.pad {
     padding: 0.5%;
 }
 
-ul li img {
+.img {
     height: 2em;
     float: left;
     padding: 0%;
