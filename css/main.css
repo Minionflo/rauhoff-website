@@ -1,7 +1,7 @@
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 0%;
     overflow: hidden;
     background-color: #161616;
     font-size: 1.5em;
@@ -34,6 +34,8 @@ li img {
 }
 
 li a:hover {
+    border: 0px solid;
+    border-radius: 12px;
     background-color: #404040;
 }
 
